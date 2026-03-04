@@ -1,5 +1,5 @@
 # FrogScape
-> FrogScape is a 2D platformer built around a variety of themed levels, each introducing its own unique gameplay mechanics. The game includes multiple tutorials to help players understand and master these mechanics as they progress.
+> FrogScape is a no code 2D platformer built around a variety of themed levels, each introducing its own unique gameplay mechanics. The game includes multiple tutorials to help players understand and master these mechanics as they progress.
 
 ## Gameplay Overview
 FrogScape combines classic platforming with mechanics inspired by iconic game universes. Each level introduces a new way to interact with the environment, encouraging players to adapt, experiment, and explore.
