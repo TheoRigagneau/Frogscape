@@ -33,3 +33,12 @@ Each mechanic is introduced through a dedicated tutorial level, ensuring players
 - Offer levels inspired by beloved game universes while keeping original gameplay.
 
 If you want to try the game -> https://darkfotife.itch.io/frogscape
+
+## Creators
+FrogScape was developed during by five creators :
+- ### Achille Coves - https://github.com/achillecoves
+- ### Pierre Laurent - https://github.com/PierreLaurent18
+- ### Alexis Mathieu - https://github.com/alexismathieu-ui
+- ### Lilian Pulverin - https://github.com/lilianPLV
+- ### Théo Rigagneau (me)
+Together, we combined our ideas, creativity, and skills to bring FrogScape to life in a very short timeframe.
